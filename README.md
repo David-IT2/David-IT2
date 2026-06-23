@@ -11,7 +11,7 @@ Full-Stack Developer | React | Laravel
 - 🌍 Based in Nairobi, Kenya
 - 📚 Learning backend scaling
 
-## 🛠 Tech Stack
+
 ## 🛠 Tech Stack
 
 ### 💻 Languages & Frameworks
