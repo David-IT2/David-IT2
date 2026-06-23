@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 
 <h3 align="center">
-Full-Stack Developer | React | Laravel
+      Full-Stack Developer 
 </h3>
 
 ---
