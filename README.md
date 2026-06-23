@@ -12,7 +12,7 @@
 - 📚 Learning backend scaling
 
 
-## 🛠 Tech Stack
+
 
 ## 🛠 Tech Stack
 
