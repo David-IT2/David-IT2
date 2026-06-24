@@ -1,15 +1,19 @@
-<h1 align="center">Hi 👋, I'm David</h1>
+<h1 align="center">Hi 👋, I'm David Kamau</h1>
 
 <h3 align="center">
-      Full-Stack Developer 
+Full-Stack Developer • AI Engineer • Building scalable and intelligent applications
 </h3>
 
 ---
 
-## 🚀 About Me
-- 💻 Building web applications
-- 🌍 Based in Nairobi, Kenya
-- 📚 Learning backend scaling
+##  About Me
+
+- 💻 Full-Stack Developer specializing in modern web applications  
+- 🤖 AI Engineer working with machine learning, APIs, automation, and AI-powered solutions  
+- 🧠 Currently learning **MLOps** and exploring model deployment, monitoring, CI/CD for ML and production AI systems  
+- ⚙️ Experienced in building end-to-end applications across frontend, backend, databases, and cloud environments  
+- ☁️ Interested in scalable architectures, DevOps practices, and AI infrastructure  
+- 📈 Continuously improving through real-world projects and new technologies  
 
 
 
@@ -44,5 +48,5 @@
 ### 🤝 Tools & Collaboration
 ## 📫 Connect
 
-- LinkedIn
-- Email
+- LinkedIn :www.linkedin.com/in/david-kamau-82493b357
+- Email: Davidkamauw90@gmail.com
