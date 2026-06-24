@@ -43,10 +43,8 @@ Full-Stack Developer • AI Engineer • Building scalable and intelligent appli
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Asana](https://img.shields.io/badge/Asana-F06A6A?style=flat-square&logo=asana&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square)
-### ☁️ Cloud & Infrastructure
 
-### 🤝 Tools & Collaboration
 ## 📫 Connect
 
-- LinkedIn :www.linkedin.com/in/david-kamau-82493b357
-- Email: Davidkamauw90@gmail.com
+- LinkedIn : www.linkedin.com/in/david-kamau-82493b357
+- Email : Davidkamauw90@gmail.com
