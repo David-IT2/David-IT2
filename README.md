@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Kamau</h1>
 
 <h3 align="center">
-Full-Stack Developer • Building scalable and intelligent applications
+Full-Stack Developer • MLOps • Building scalable and intelligent applications
 </h3>
 
 ---
