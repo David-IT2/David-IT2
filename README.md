@@ -12,7 +12,7 @@ Full-Stack Developer • AI Engineer • Building scalable and intelligent appli
 - 🧠 Currently exploring model deployment, monitoring, CI/CD and production AI systems  
 - ⚙️ Experienced in building end-to-end applications across frontend, backend, databases, and cloud environments  
 - ☁️ Interested in scalable architectures, DevOps practices, and AI infrastructure  
-- 📈 Continuously improving through real-world projects and new technologies  
+  
 
 
 
